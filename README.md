@@ -3,4 +3,4 @@ This notebooks shows how to create a HEALPix map using Healpy. It will demostrat
 
 Example: GCNS catalogue (Applied Gaussian Smoothing)
 
-![image](https://user-images.githubusercontent.com/64801858/145388832-30ad3acb-96a1-471c-a5ed-f0f51baaf6f6.png)
+![image](https://user-images.githubusercontent.com/64801858/145453203-5e1fc998-2c05-4ee1-be4d-65276dc5ed53.png)
